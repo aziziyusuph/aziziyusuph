@@ -33,13 +33,13 @@ I enjoy taking an idea from concept → architecture → code → deployment →
 
 **Financial Transaction Management**
 
-Miamala is a transaction management platform designed to help businesses organize, track, and reconcile payments from different payment channels.
+Miamala is a payment transaction management platform designed to help businesses organize, track, and reconcile payments from different payment channels.
 
-It is being built with a focus on practical financial operations for businesses operating in environments where mobile money and multiple payment providers are widely used.
+The project is being developed with a focus on practical payment management use cases in Tanzania and across Africa.
 
 **Stack:** Laravel · PHP · PostgreSQL
 
-🔗 [View Miamala on GitHub](https://github.com/aziziyusuph)
+🔗 [View Miamala on GitHub](https://github.com/aziziyusuph/miamala)
 
 ---
 
