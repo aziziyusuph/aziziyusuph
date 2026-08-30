@@ -61,9 +61,11 @@ The project explores practical API integration for sending and managing SMS and 
 
 **AI Mental Health Companion**
 
-PonaAI explores how AI-powered applications can provide accessible digital support through a modern web interface.
+PonaAI is an AI-powered mental health companion built as a modern web application.
 
 **Stack:** Next.js · React · JavaScript
+
+🔗 [View PonaAI on GitHub](https://github.com/aziziyusuph/PonaAI)
 
 ---
 
